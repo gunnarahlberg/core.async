@@ -13,7 +13,7 @@ Latest release: 0.1.242.0-44b1e3-alpha
 
 ```clj
  [org.clojure/clojure "1.5.1"]
- [org.clojure/core.async "0.1.242.0-44b1e3-alpha"]
+ [org.clojure/core.async "0.1.256.0-1bf8cf-alpha"]
 ```
 
 [Maven](http://maven.apache.org/) dependency information:
@@ -22,7 +22,7 @@ Latest release: 0.1.242.0-44b1e3-alpha
 <dependency>
   <groupId>org.clojure</groupId>
   <artifactId>core.async</artifactId>
-  <version>0.1.242.0-44b1e3-alpha</version>
+  <version>0.1.256.0-1bf8cf-alpha</version>
 </dependency>
 ```
 
